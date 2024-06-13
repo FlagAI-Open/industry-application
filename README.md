@@ -1,6 +1,7 @@
 # Industry-application
 
 ## About
-This repository, maintained by the Industry Application Team of the Beijing Academy of Artificial Intelligence (BAAI), is dedicated to releasing results related to industry models. Please stay tuned for updates.
+This repository is used by the Industry Model Application Team of BAAI to publish industry model-related achievements. Please continue to follow us for updates.
 
 ## ModelList
+
