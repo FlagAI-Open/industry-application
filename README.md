@@ -1,3 +1,4 @@
+[<img src="flagopen.jpeg">](https://flagopen.baai.ac.cn/)
 # Industry-application
 
 ## About
